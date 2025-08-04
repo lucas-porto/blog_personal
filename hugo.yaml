@@ -1,4 +1,4 @@
-baseURL: https://lucas-porto.github.io/blog_personal/
+baseURL: https://lucasporto.cc/
 languageCode: en-us
 title: Lucas Porto Blog
 
@@ -35,31 +35,8 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
     displayCopyright: false
     displayPoweredBy: true
-
-caches:
-  assets:
-    dir: :resourceDir/_gen
-    maxAge: -1
-  getcsv:
-    dir: :cacheDir/:project
-    maxAge: -1
-  getjson:
-    dir: :cacheDir/:project
-    maxAge: -1
-  getresource:
-    dir: :cacheDir/:project
-    maxAge: -1
-  images:
-    dir: :cacheDir/images
-    maxAge: -1
-  misc:
-    dir: :cacheDir/:project
-    maxAge: -1
-  modules:
-    dir: :cacheDir/modules
-    maxAge: -1
