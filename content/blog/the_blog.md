@@ -49,3 +49,5 @@ hugo new content/docs/_index.md
 hugo server --buildDrafts --disableFastRender
 ```
 
+## Host on GitHub Pages
+

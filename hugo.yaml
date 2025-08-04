@@ -40,3 +40,7 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: true
+
+caches:
+  images:
+    dir: :cacheDir/images
