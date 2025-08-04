@@ -1,6 +1,6 @@
 ---
 date: '2025-08-04T12:23:00-03:00'
-draft: true
+draft: false
 title: 'How Setup an easy blog with Hugo'
 ---
 
