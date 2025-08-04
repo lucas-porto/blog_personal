@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucas Porto Blog – Docs</title>
-    <link>http://localhost:55236/blog_personal/docs/</link>
+    <link>http://localhost:1313/docs/</link>
     <description>Recent content in Docs on Lucas Porto Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Aug 2025 11:51:52 -0300</lastBuildDate>
     
-	  <atom:link href="http://localhost:55236/blog_personal/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
