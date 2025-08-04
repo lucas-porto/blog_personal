@@ -1,34 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Lucas Porto Blog – Lucas Porto Blog&#39;s</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Lucas Porto Blog&#39;s on Lucas Porto Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Aug 2025 11:51:44 -0300</lastBuildDate>
-    
-	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-      
-    
-    
-    <item>
-      <title>Initial Commit</title>
-      <link>http://localhost:1313/blog/first_post/</link>
-      <pubDate>Mon, 04 Aug 2025 11:51:52 -0300</pubDate>
-      
-      <guid>http://localhost:1313/blog/first_post/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;The Explanation&lt;/h1&gt;&lt;p&gt;My main goal right now is getting better at coding and machine learning and besides showing my skills as everyone tells us to do.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m not so good at showing my skills nor keeping easily available any project or semi-finished project that I got involved with. So this blog started for this reason, to keep showing or journaling my skills and doings, as long as I can or get interested.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ll try to cover some specific topics that I didn&amp;rsquo;t find help for in Portuguese, so I&amp;rsquo;ll post in English and a translated version in Portuguese.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Porto Blog – Lucas Porto Blog's</title><link>https://lucasporto.cc/</link><description>Recent content in Lucas Porto Blog's on Lucas Porto Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Aug 2025 11:51:44 -0300</lastBuildDate><atom:link href="https://lucasporto.cc/index.xml" rel="self" type="application/rss+xml"/><item><title>Initial Commit</title><link>https://lucasporto.cc/blog/first_post/</link><pubDate>Mon, 04 Aug 2025 11:51:52 -0300</pubDate><guid>https://lucasporto.cc/blog/first_post/</guid><description>
+&lt;h1>The Explanation&lt;/h1>&lt;p>My main goal right now is getting better at coding and machine learning and besides showing my skills as everyone tells us to do.&lt;/p>
+&lt;p>I&amp;rsquo;m not so good at showing my skills nor keeping easily available any project or semi-finished project that I got involved with. So this blog started for this reason, to keep showing or journaling my skills and doings, as long as I can or get interested.&lt;/p>
+&lt;p>I&amp;rsquo;ll try to cover some specific topics that I didn&amp;rsquo;t find help for in Portuguese, so I&amp;rsquo;ll post in English and a translated version in Portuguese.&lt;/p></description></item></channel></rss>
