@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/the_blog/</loc>
+    <loc>http://localhost:55236/blog_personal/blog/the_blog/</loc>
     <lastmod>2025-08-04T12:23:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:55236/blog_personal/about/</loc>
     <lastmod>2025-08-04T12:19:04-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:55236/blog_personal/blog/</loc>
     <lastmod>2025-08-04T11:54:24-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>http://localhost:55236/blog_personal/docs/</loc>
     <lastmod>2025-08-04T11:51:52-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/first_post/</loc>
+    <loc>http://localhost:55236/blog_personal/blog/first_post/</loc>
     <lastmod>2025-08-04T11:51:52-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:55236/blog_personal/</loc>
     <lastmod>2025-08-04T11:51:44-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:55236/blog_personal/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:55236/blog_personal/tags/</loc>
   </url>
 </urlset>

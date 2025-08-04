@@ -1,4 +1,4 @@
-module github.com/username/my-site
+module github.com/lucas-porto/blog_personal
 
 go 1.24.5
 
