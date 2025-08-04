@@ -1,0 +1,13 @@
+---
+date: '2025-08-04T11:51:52-03:00'
+draft: true
+title: 'Initial Commit'
+---
+
+# The Explanation
+
+My main goal right now is getting better at coding and machine learning and besides showing my skills as everyone tells us to do.
+
+I'm not so good at showing my skills nor keeping easily available any project or semi-finished project that I got involved with. So this blog started for this reason, to keep showing or journaling my skills and doings, as long as I can or get interested.
+
+I'll try to cover some specific topics that I didn't find help for in Portuguese, so I'll post in English and a translated version in Portuguese.
